@@ -12,5 +12,5 @@ This is meant to show you the best header format you should use to make your cod
  -Not needed, but recommended.
 &nbsp;
  # Extra info
-  - docstring
+  - docstring\
 &ensp;The docstring is a multi line string without variable assignment, essentially a multiline comment.
