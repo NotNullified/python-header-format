@@ -10,7 +10,7 @@ This is meant to show you the best header format you should use to make your cod
  -Should go in the order of built in modules first, followed by third party modules such as pandas or requests. Finally you should put your own modules.
  4. **`authorship info`**
  -Not needed, but recommended.
- <br>
+&nbsp;
  # Extra info
   - docstring
 &ensp;The docstring is a multi line string without variable assignment, essentially a multiline comment.
