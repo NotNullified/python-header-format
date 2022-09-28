@@ -15,7 +15,7 @@ This is meant to show you the best header format you should use to make your cod
   - docstring\
 &ensp;The docstring is a multi line string without variable assignment, essentially a multiline comment.
   - authorship\
-&ensp;`__author__` or `__authors__`is a must have, as is `__version__`./
+&ensp;`__author__` or `__authors__`is a must have, as is `__version__`.\
 &ensp;Others may include `__contact__`, `__copyright__`, `  
 __license__` or`__date__`
 &nbsp;
