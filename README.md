@@ -33,7 +33,7 @@ from time import sleep
 import requests #This and the following import is only here to provide an example of import order.
 from example import add
 
-__author__ = "H3lix fire"
+__author__ = "NotNullified"
 __version__ = 1.0
 __date__ = "9/28/2022"
 
